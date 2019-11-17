@@ -213,3 +213,18 @@ body {margin:0;font-family:Arial;
     font-size: 20px;
     line-height: 150%;
 }
+.what{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+  color: #ea1686;
+}
+.website{
+  margin: 30px 0px 0px 0px;
+  display: flex;
+  justify-content: center;
+  color: #ea1686;
+  justify-content: space-evenly;
+  
+  font-size: 50px;
+}
